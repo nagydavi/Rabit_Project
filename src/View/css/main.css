@@ -1,0 +1,49 @@
+* {
+    background-color: #808080;
+}
+/* links */
+a {
+    text-decoration: none;
+}
+
+/* Navigaton style */
+#list{
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+#list{
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+#list_main{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+/* Navigaton style end */
+/* lists */
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+/* lists end */
+/* tables */
+table {
+    text-align: center;
+    width: 100%;
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+
+/* tables end */
